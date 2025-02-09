@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e543204e-ada5-4894-b117-ee67bd9d8906" name="Default" comment="">
+    <list default="true" id="e543204e-ada5-4894-b117-ee67bd9d8906" name="Default" comment="Update info with latest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/01technical_vinayjaibheem.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/01technical_vinayjaibheem.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +52,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "vinayjaibheem"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/vinayjaibheem/vinayjaibheem.github.io.git",
+    "accountId": "f833e7fc-8332-4b1b-800f-07a056c9ecf8"
+  }
+}]]></component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
@@ -194,8 +205,17 @@
       <workItem from="1540620410188" duration="1390000" />
       <workItem from="1540870478423" duration="1745000" />
       <workItem from="1728004554523" duration="759000" />
-      <workItem from="1739061869584" duration="1502000" />
+      <workItem from="1739061869584" duration="1824000" />
     </task>
+    <task id="LOCAL-00001" summary="Update info with latest">
+      <option name="closed" value="true" />
+      <created>1739066348697</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1739066348697</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -224,6 +244,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update info with latest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update info with latest" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/index.html">
